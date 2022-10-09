@@ -2,7 +2,14 @@
     text-align: center;
     display: inline-block;
     width: 100%;
+    
 }
+
+.svg{
+    width: 2rem;
+    height: 2rem;
+}
+
 
 .mobile{
     padding-right: 2rem;
