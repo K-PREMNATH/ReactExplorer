@@ -1,0 +1,16 @@
+.button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.primary{background-color: rgb(77, 114, 233);}
+.secondary{background-color: rgb(179, 192, 192);}
+.success{background-color: rgb(117, 234, 106);}
+.danger{background-color: rgb(245, 139, 116);}
